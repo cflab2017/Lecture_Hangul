@@ -2,7 +2,7 @@
 
 사무에서 바로 쓰는 **한글** 를 기초 → 중급 → 고급 순서로 배우는 한국어 강의입니다. 2026년 11월부터 하루 한 편씩 연재합니다.
 
-- 강의 페이지: https://www.coding-now.com/blog/hangul (1강 발행과 함께 열립니다)
+- 강의 페이지: https://www.coding-now.com/blog/hangul 
 - 확인 환경: 한글 2024 · 네이버 MYBOX 의 한컴오피스 Web(웹 한글) — 강의에 적은 결과는 모두 이 환경에서 직접 해 보고 옮긴 것입니다.
 
 ## 폴더
@@ -26,6 +26,7 @@
 
 | 단계 | # | 강의 | 핵심 |
 |---|---|---|---|
+| 기초 | 1 | [한글 단축키 — 자주 쓰는 34가지](01_기초/01_한글_단축키/) · [강의](https://www.coding-now.com/blog/hangul/hangul-basic-01-shortcuts) | Ctrl+N,T 누르는 법 · 단축키 표 PDF · 웹 한글에서 다른 키 |
 
 ---
 만든 곳: [코딩나우 CODINGNOW](https://www.coding-now.com)
