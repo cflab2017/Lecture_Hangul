@@ -1,0 +1,480 @@
+{
+ "version": "13, 0, 0, 4132",
+ "hwpx_lineSpacing": [
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "150",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "150",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "130",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "130",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "130",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "130",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "160",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "150",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "150",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "100",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "100",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "200",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "200",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "0",
+   "HWPUNIT"
+  ],
+  [
+   "PERCENT",
+   "0",
+   "HWPUNIT"
+  ],
+  [
+   "FIXED",
+   "2000",
+   "HWPUNIT"
+  ],
+  [
+   "FIXED",
+   "4000",
+   "HWPUNIT"
+  ],
+  [
+   "FIXED",
+   "700",
+   "HWPUNIT"
+  ],
+  [
+   "FIXED",
+   "1400",
+   "HWPUNIT"
+  ],
+  [
+   "AT_LEAST",
+   "700",
+   "HWPUNIT"
+  ],
+  [
+   "AT_LEAST",
+   "1400",
+   "HWPUNIT"
+  ],
+  [
+   "BETWEEN_LINES",
+   "0",
+   "HWPUNIT"
+  ],
+  [
+   "BETWEEN_LINES",
+   "0",
+   "HWPUNIT"
+  ]
+ ],
+ "cases": {
+  "글자에 따라 160% (기본)": {
+   "lines": [
+    [
+     115.33,
+     125.28,
+     "11월 15일(토) 오"
+    ],
+    [
+     131.39,
+     141.34,
+     "는 지하 주차장을 쓸 "
+    ],
+    [
+     147.33,
+     157.28,
+     "기 바랍니다."
+    ]
+   ],
+   "line_count": 3,
+   "pitch_pt": [
+    16.06,
+    15.94
+   ],
+   "glyph_height_pt": [
+    9.95
+   ]
+  },
+  "글자에 따라 100%": {
+   "lines": [
+    [
+     195.28,
+     205.23,
+     "11월 15일(토) 오"
+    ],
+    [
+     205.23,
+     215.18,
+     "는 지하 주차장을 쓸 "
+    ],
+    [
+     215.3,
+     225.25,
+     "기 바랍니다."
+    ]
+   ],
+   "line_count": 3,
+   "pitch_pt": [
+    9.95,
+    10.07
+   ],
+   "glyph_height_pt": [
+    9.95
+   ]
+  },
+  "글자에 따라 200%": {
+   "lines": [
+    [
+     257.25,
+     267.2,
+     "11월 15일(토) 오"
+    ],
+    [
+     277.15,
+     287.1,
+     "는 지하 주차장을 쓸 "
+    ],
+    [
+     297.17,
+     307.12,
+     "기 바랍니다."
+    ]
+   ],
+   "line_count": 3,
+   "pitch_pt": [
+    19.9,
+    20.02
+   ],
+   "glyph_height_pt": [
+    9.95
+   ]
+  },
+  "글자에 따라 0%": {
+   "lines": [
+    [
+     349.07,
+     359.02,
+     "11월 15일(토) 오"
+    ]
+   ],
+   "line_count": 1,
+   "pitch_pt": [],
+   "glyph_height_pt": [
+    9.95
+   ]
+  },
+  "고정 값 20pt": {
+   "lines": [
+    [
+     381.08,
+     391.03,
+     "11월 15일(토) 오"
+    ],
+    [
+     401.09,
+     411.04,
+     "는 지하 주차장을 쓸 "
+    ],
+    [
+     420.99,
+     430.94,
+     "기 바랍니다."
+    ]
+   ],
+   "line_count": 3,
+   "pitch_pt": [
+    20.01,
+    19.9
+   ],
+   "glyph_height_pt": [
+    9.95
+   ]
+  },
+  "고정 값 7pt (글자 10pt 보다 작게)": {
+   "lines": [
+    [
+     473.02,
+     482.97,
+     "11월 15일(토) 오"
+    ],
+    [
+     479.97,
+     489.92,
+     "는 지하 주차장을 쓸 "
+    ],
+    [
+     486.92,
+     496.87,
+     "기 바랍니다."
+    ]
+   ],
+   "line_count": 3,
+   "pitch_pt": [
+    6.95,
+    6.95
+   ],
+   "glyph_height_pt": [
+    9.95
+   ]
+  },
+  "최소 7pt": {
+   "lines": [
+    [
+     525.88,
+     535.83,
+     "11월 15일(토) 오"
+    ],
+    [
+     535.95,
+     545.9,
+     "는 지하 주차장을 쓸 "
+    ],
+    [
+     545.9,
+     555.85,
+     "기 바랍니다."
+    ]
+   ],
+   "line_count": 3,
+   "pitch_pt": [
+    10.07,
+    9.95
+   ],
+   "glyph_height_pt": [
+    9.95
+   ]
+  },
+  "여백만 지정 0pt": {
+   "lines": [
+    [
+     587.85,
+     597.8,
+     "11월 15일(토) 오"
+    ],
+    [
+     597.8,
+     607.75,
+     "는 지하 주차장을 쓸 "
+    ],
+    [
+     607.87,
+     617.82,
+     "기 바랍니다."
+    ]
+   ],
+   "line_count": 3,
+   "pitch_pt": [
+    9.95,
+    10.07
+   ],
+   "glyph_height_pt": [
+    9.95
+   ]
+  }
+ }
+}
