@@ -28,6 +28,7 @@
 |---|---|---|---|
 | 기초 | 1 | [한글 단축키 — 자주 쓰는 34가지](01_기초/01_한글_단축키/) · [강의](https://www.coding-now.com/blog/hangul/hangul-basic-01-shortcuts) | Ctrl+N,T 누르는 법 · 단축키 표 PDF · 웹 한글에서 다른 키 |
 | 기초 | 2 | [한글 줄간격 — 160% 바꾸기 · 줄이기 단축키 · 글자 겹침](01_기초/02_한글_줄간격/) · [강의](https://www.coding-now.com/blog/hangul/hangul-basic-02-line-spacing) | 160% = 16pt · 고정 값 7pt 겹침 · 최소 · Alt+Shift+A·Z |
+| 기초 | 3 | [한글 들여쓰기 — 첫 줄 들여쓰기 · 내어쓰기 · Shift+Tab](01_기초/03_한글_들여쓰기/) · [강의](https://www.coding-now.com/blog/hangul/hangul-basic-03-indent) | 들여쓰기 10pt = 3.51mm · 내어쓰기는 둘째 줄부터 · 번호 뒤 Shift+Tab |
 
 ---
 만든 곳: [코딩나우 CODINGNOW](https://www.coding-now.com)
