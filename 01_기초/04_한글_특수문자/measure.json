@@ -1,0 +1,73 @@
+{
+ "version": "13, 0, 0, 4132",
+ "pair_widths": {
+  "·": {
+   "U": "U+00B7",
+   "width_pt": 3.19,
+   "font": "HCRBatang"
+  },
+  "1": {
+   "U": "U+0031",
+   "width_pt": 5.48,
+   "font": "HCRBatang"
+  },
+  "ㆍ": {
+   "U": "U+318D",
+   "width_pt": 9.66,
+   "font": "HCRBatang"
+  },
+  "①": {
+   "U": "U+2460",
+   "width_pt": 9.66,
+   "font": "HCRBatang"
+  },
+  "(": {
+   "U": "U+0028",
+   "width_pt": 3.19,
+   "font": "HCRBatang"
+  },
+  ")": {
+   "U": "U+0029",
+   "width_pt": 3.19,
+   "font": "HCRBatang"
+  },
+  "㈜": {
+   "U": "U+321C",
+   "width_pt": 9.66,
+   "font": "HCRBatang"
+  },
+  "주": {
+   "U": "U+C8FC",
+   "width_pt": 9.66,
+   "font": "HCRBatang"
+  },
+  "×": {
+   "U": "U+00D7",
+   "width_pt": 6.14,
+   "font": "HCRBatang"
+  },
+  "x": {
+   "U": "U+0078",
+   "width_pt": 5.4,
+   "font": "HCRBatang"
+  }
+ },
+ "answer_symbols": {
+  "★": "U+2605",
+  "▶": "U+25B6",
+  "㎡": "U+33A1",
+  "①": "U+2460",
+  "②": "U+2461",
+  "③": "U+2462",
+  "※": "U+203B",
+  "☎": "U+260E"
+ },
+ "answer_pdf_text": [
+  "★ 11월 정기 모임 안내 ★",
+  "▶ 일시: 11월 21일(토) 오후 2시",
+  "▶ 장소: 시립 도서관 3층 세미나실(약 40㎡)",
+  "▶ 준비물: ① 읽은 책  ② 메모  ③ 회비 1만 원",
+  "※ 도서관 주차는 2시간까지 무료입니다.",
+  "☎ 문의: 총무 — 단체 대화방"
+ ]
+}
