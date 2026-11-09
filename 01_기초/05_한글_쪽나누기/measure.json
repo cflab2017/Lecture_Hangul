@@ -1,0 +1,91 @@
+{
+ "version": "13, 0, 0, 4132",
+ "run_actions": {
+  "BreakPage": false,
+  "BreakPara": false,
+  "MoveDocEnd": false,
+  "DeleteBack": false
+ },
+ "base_pages": 1,
+ "enters_until_page2": 37,
+ "enters_page2_pdf": {
+  "pages": 2,
+  "per_page": [
+   {
+    "first_line": "11월 정기 모임 안내",
+    "y": 99.4
+   },
+   {
+    "empty": true
+   }
+  ]
+ },
+ "enters_minus1_pages": 1,
+ "break_on_last_empty_para": {
+  "page_count_prop": 2,
+  "pages": 2,
+  "per_page": [
+   {
+    "first_line": "11월 정기 모임 안내",
+    "y": 99.4
+   },
+   {
+    "empty": true
+   }
+  ]
+ },
+ "push_enter_before": {
+  "pages": 2,
+  "per_page": [
+   {
+    "first_line": "11월 정기 모임 안내",
+    "y": 99.4
+   },
+   {
+    "first_line": "2쪽 시작: 참가 신청서",
+    "y": 99.4
+   }
+  ]
+ },
+ "push_enter_after": {
+  "pages": 2,
+  "per_page": [
+   {
+    "first_line": "11월 정기 모임 안내",
+    "y": 99.4
+   },
+   {
+    "first_line": "2쪽 시작: 참가 신청서",
+    "y": 147.3
+   }
+  ]
+ },
+ "push_break_before": {
+  "page_count_prop": 2,
+  "pages": 2,
+  "per_page": [
+   {
+    "first_line": "11월 정기 모임 안내",
+    "y": 99.4
+   },
+   {
+    "first_line": "2쪽 시작: 참가 신청서",
+    "y": 99.4
+   }
+  ]
+ },
+ "push_break_after": {
+  "page_count_prop": 2,
+  "pages": 2,
+  "per_page": [
+   {
+    "first_line": "11월 정기 모임 안내",
+    "y": 99.4
+   },
+   {
+    "first_line": "2쪽 시작: 참가 신청서",
+    "y": 99.4
+   }
+  ]
+ }
+}

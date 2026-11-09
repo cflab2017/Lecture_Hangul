@@ -1,0 +1,17 @@
+{
+ "_note": "2026-11-07 네이버 MYBOX '테스트' 폴더 — 한컴오피스 Web v2 한글(웹 한글)에서 잼. 저장은 누르지 않음. 화면은 shots/",
+ "menu": {
+  "쪽 탭": ["편집 용지… F7", "머리말 ▸", "꼬리말 ▸", "새 번호로 시작…", "현재 쪽만 감추기… Alt+N+S", "쪽 나누기 Ctrl+Enter", "단 나누기 Ctrl+Shift+Enter", "단 ▸", "다단 설정 나누기 Ctrl+Alt+Enter"],
+  "shot": "shots/w1_page_tab.png",
+  "리본": "문단 부호 · 조판 부호 단추가 기본 리본 오른쪽에 있음(shots/w0_editor.png)"
+ },
+ "ctrl_enter": {"file": "한글4강_문자표_실습.hwpx", "before": "1/1쪽", "after_ctrl_enter_at_end": "2/2쪽", "shot": "shots/w3_after_ctrl_enter.png"},
+ "backspace_on_page2_start": {"before": "2/2쪽", "after": "1/1쪽", "shot": "shots/w5_break_removed.png"},
+ "practice_file": {
+  "file": "한글5강_쪽나누기_실습.hwpx (make_files.py — 빈 줄 37개로 신청서를 2쪽에, 끝에 빈 줄 40개)",
+  "opened": "3/3쪽 · 93글자, 3쪽은 빈 쪽",
+  "para_marks_on": "문단 부호 단추 → 빈 줄마다 ↵ 표시(shots/p6_para_marks.png)",
+  "backspace_x40_at_end": "3/3쪽 → 2/2쪽(shots/p7_after_bs40.png)"
+ },
+ "tool_note": "hjstep.py 에 BACKSPACE · DELETE 키 이름 추가(11/7) — 전에는 'BACKSPACE' 가 글자로 쳐졌음(한글4강 시험 문서, 저장 안 함 · 바로 지움)"
+}
