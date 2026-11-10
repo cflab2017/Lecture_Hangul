@@ -1,0 +1,17 @@
+{
+ "_note": "2026-11-10 네이버 MYBOX '테스트' 폴더 — 한컴오피스 Web 한글(웹 한글)에서 잼. 파일 한글6강_쪽번호_실습.hwpx(= 실습.hwpx 복사본). 저장 단추는 누르지 않았지만 웹 한글이 '임시 저장 · 자동 저장'함. 화면은 shots/w*.png",
+ "page_menu": {"items": ["편집 용지… F7", "머리말 ▸", "꼬리말 ▸", "새 번호로 시작…", "현재 쪽만 감추기… Alt+N+S", "쪽 나누기 Ctrl+Enter", "단 나누기 Ctrl+Shift+Enter", "단 ▸", "다단 설정 나누기 Ctrl+Alt+Enter"],
+               "note": "웹 한글 쪽 메뉴에는 '쪽 번호 매기기' 항목이 없다 — 쪽 번호는 꼬리말 ▸ 안에", "shot": "shots/w1_page_tab.png"},
+ "footer_submenu": {"items": ["(모양 없음)", "왼쪽 쪽 번호", "가운데 쪽 번호", "오른쪽 쪽 번호"], "shot": "shots/w14_footer_menu.png"},
+ "footer_from_cursor_page": {"cursor": "3/3쪽(문서 끝)", "after_center_page_number": {"page1": "(없음)", "page2": "(없음)", "page3": "3"},
+                             "shots": ["shots/w4_fit_page.png", "shots/w10_cover_cursor.png", "shots/w12_page2_bottom.png"]},
+ "hide_pagenum_on_footer_number": {"page": 3, "checked": "쪽 번호", "result": "3 그대로 보임",
+                                   "dialog_note": "머리말이나 꼬리말, 바탕쪽에 삽입한 쪽 번호를 감추고 싶을 때에는 머리말이나 꼬리말, 바탕쪽을 감추어야 합니다.",
+                                   "shots": ["shots/w7_hide_pagenum_checked.png", "shots/w8_after_hide_pagenum.png"]},
+ "hide_dialog_items": ["머리말", "쪽 번호", "쪽 배경", "꼬리말", "쪽 테두리", "바탕쪽", "모두 선택", "설정", "취소"],
+ "right_order": {"1_cursor_page1_center_page_number": {"page1": "1", "shot": "shots/w15_page1_number.png"},
+                 "2_page1_hide_footer": {"page1": "(없음)", "shots": ["shots/w16_hide_footer_dialog.png", "shots/w17_cover_hidden.png"]},
+                 "3_page2_first_line_new_number_1": {"dialog": ["번호 종류: 쪽 번호(기본 선택) · 각주 번호 · 미주 번호 · 그림 번호 · 표 번호 · 수식 번호", "시작 번호: 1", "넣기 · 취소"],
+                                                     "page2": "1", "page3": "2", "shots": ["shots/w19_newnum_dialog.png", "shots/w20_after_newnum.png", "shots/w21_page3_bottom.png"]}},
+ "keys_note": "Ctrl+Home · Ctrl+PgUp(자동 입력)으로는 커서가 1쪽으로 안 감 — 스크롤 막대로 올린 뒤 표지 글자를 눌러 1/3쪽"
+}
