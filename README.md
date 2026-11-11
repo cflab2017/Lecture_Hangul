@@ -32,6 +32,7 @@
 | 기초 | 4 | [한글 특수문자 · 문자표 — Ctrl+F10 · 비슷한 기호 구별](01_기초/04_한글_특수문자/) · [강의](https://www.coding-now.com/blog/hangul/hangul-basic-04-special-characters) | 영역별 기호 위치 · 여러 개 한 번에 넣기 · 가운뎃점 3.19pt · 아래아 9.66pt |
 | 기초 | 5 | [한글 쪽 나누기 · 빈 페이지 삭제 — Ctrl+Enter, 문단 부호](01_기초/05_한글_쪽나누기/) · [강의](https://www.coding-now.com/blog/hangul/hangul-basic-05-page-break) | 빈 줄 37개면 2쪽 · 쪽 나누기 · 문단 부호로 빈 줄 찾기 |
 | 기초 | 6 | [한글 쪽 번호 — 표지 감추기, 2쪽부터 1, 웹 한글은 꼬리말](01_기초/06_한글_쪽번호/) · [강의](https://www.coding-now.com/blog/hangul/hangul-basic-06-page-numbers) | 쪽 번호 매기기 · 현재 쪽만 감추기 · 새 번호로 시작 · 꼬리말 감추기 |
+| 기초 | 7 | [한글 자간 · 장평 — 한두 글자만 넘어간 줄 당기기, Alt+Shift+N · W · J · K](01_기초/07_한글_자간장평/) · [강의](https://www.coding-now.com/blog/hangul/hangul-basic-07-letter-spacing) | 4줄 → 자간 -3 % · 장평 97 % 부터 3줄 · 단축키 한 번 1 % · 언어 '한글'만 바꾸면 영문 그대로 |
 
 ---
 만든 곳: [코딩나우 CODINGNOW](https://www.coding-now.com)

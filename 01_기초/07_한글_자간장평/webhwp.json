@@ -1,0 +1,16 @@
+{
+ "_note": "2026-11-11 10:1x 네이버 MYBOX '테스트' 폴더 — 한컴오피스 Web v2 한글(웹 한글)에서 잼. 파일 한글7강_자간장평_실습.hwpx(= 실습.hwpx 복사본). 저장 단추는 누르지 않았지만 웹 한글이 임시 · 자동 저장할 수 있음. 화면은 shots/w*.png",
+ "open": {"lines": 4, "last_line": "요.", "status_bar": "1/1쪽 · 206 글자", "shot": "shots/w1_open.png", "note": "데스크톱 한글 2024 PDF 실측(measure.json practice)과 같은 줄 나눔 — '주세' / '요.' 처럼 낱말 가운데서 줄이 나뉨"},
+ "select": {"how": "안내 문단을 마우스로 끌어 고름", "status_bar": "156/206글자", "shot": "shots/w2_select.png"},
+ "char_shape_dialog": {"key": "Alt+L", "title": "글자 모양", "tabs": ["기본", "확장"], "기준 크기": "10.0 pt",
+                       "언어별 설정": {"언어": "대표", "글꼴": "함초롬바탕", "상대 크기": "100 %", "장평": "100 %", "글자 위치": "0 %", "자간": "0 %"},
+                       "buttons": ["확인", "취소"], "shot": "shots/w3_charshape.png"},
+ "shortcuts": {
+  "Alt+Shift+N x1": {"자간": "-1 %", "lines": 4, "shots": ["shots/w5_n1.png", "shots/w6_n1_dialog.png"]},
+  "Alt+Shift+N x3": {"자간": "-3 %", "lines": 3, "last_line_ends": "늦으시는 분은 미리 연락해 주세요.", "shots": ["shots/w8_n3.png", "shots/w9_n3_dialog.png"]},
+  "Alt+Shift+W x3 (from -3)": {"자간": "0 %", "lines": 4, "shots": ["shots/w11_w3.png", "shots/w12_w3_dialog.png"]},
+  "Alt+Shift+J x3": {"장평": "97 %", "lines": 3, "shots": ["shots/w14_j3.png", "shots/w15_j3_dialog.png"]},
+  "Alt+Shift+K x3 (from 97)": {"장평": "100 %", "lines": 4, "shots": ["shots/w17_k3.png", "shots/w18_k3_dialog.png"]},
+  "note": "한 번 누를 때 1 %씩 — 자간 좁게 N · 넓게 W, 장평 좁게 J · 넓게 K. 데스크톱 PDF 실측 문턱(자간 -3 % · 장평 97 %)과 같은 지점에서 4줄 → 3줄"
+ }
+}
